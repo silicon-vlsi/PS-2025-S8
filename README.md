@@ -1,2 +1,6 @@
-# PS-2025-S8
-Portal for Practice School 2025 Sem-8
+# Practice School 2025 Sem 8
+
+- **PRE-REQS**:
+  - Students with NO Linux exeperience may follow th
+
+#
