@@ -6,7 +6,7 @@ Resistance calculation of metal or semiconductor material is fundamental to IC e
 Consider a block of metal or semiconductor material with dimensions $L, W$ and $h$. Let $n$ be the charge per unit volume.
 To calculate the current $I_R$ for an applied voltage $V_R$ across the length of the material, we will consider an incremental cross section of the material with length $\Delta x$. The current can be written as the total charge in the incremental volume times the average velocity of the free carriers: 
 
-$ I_R = Sheet-Charge \times Average-Velocity$ or, 
+$I_R = Sheet Charge \times Average Velocity$ or, 
 
 $I_R = nWh \times v_d$. 
 
@@ -14,7 +14,7 @@ where, $nWh$ is the sheet-charge ($Q_S$) or the charge per unit length,
 
 $v_d=\Delta x / \Delta t = \mu E$, and 
 
-$ E = \Delta V / \Delta x$ where $\mu$ is the mobility of the material.
+$E = \Delta V / \Delta x$ where $\mu$ is the mobility of the material.
 
 Therefore, $I_R = (Q_S \mu)(W/\Delta x) \Delta V$
 
@@ -22,7 +22,7 @@ The incremental resistance can be expressed as
 
 $\Delta R = \Delta V / I_R = \rho \Delta x/W$
 
-where, $\rho = 1/(Q_S \mu)$ is the \textit{Specific resistivity} ($\rho$) is a property of the material that can be defined as the resistance per unit volume expressed in SI units of $\Omega m$ but more conveniently as $\Omega cm$. 
+where, $\rho = 1/(Q_S \mu)$ is the _Specific resistivity_ ($\rho$) is a property of the material that can be defined as the resistance per unit volume expressed in SI units of $\Omega m$ but more conveniently as $\Omega cm$. 
 
 The total resistance of the volume can be found by summing up all incremental resistances $\Delta R$:
 
@@ -30,10 +30,10 @@ $R = \rho L/A$
 
 where, $L$ is the length and $A$ is the cross-sectional area.
 
-In integrated circuit design, the height of the metal routing is fixed and is typically in the range of $0.1$ to $5$ micrometers ($\mu m, 10^{-6} m)$ and the resistance is measured in square units as \textit{ ohms per square} or $\Omega/\square$.
+In integrated circuit design, the height of the metal routing is fixed and is typically in the range of $0.1$ to $5$ micrometers ($\mu m, 10^{-6} m)$ and the resistance is measured in square units as _ohms per square_ or $\Omega/\square$.
 
-$R = \rho/h (L/W)$
+$R = (\rho/h) (L/W)$
 
-Where, $\rho/h$ is typically called sheet-rho ($\rho_{sheet}$
+Where, $\rho/h$ is typically called sheet-rho ($\rho_{sheet}$)
 
 The specific resistance (in $\Omega cm$) and unit resistance (in $\Omega/\square$) of typical metals used in integrated circuits such as aluminum (Al), copper (Cu) and gold (Au) are tabulated:
