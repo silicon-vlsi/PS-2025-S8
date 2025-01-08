@@ -13,6 +13,12 @@
    - Derivation of Capacitance using Gauss's Law.
    - Basic inductance calculation.
 - Basic Circuit Theory
+  - Basic circuit analysis: Voltage current division, circuit reduction.
+  - Analysis techniques:
+    - Node-voltage and mesh-analysis
+    - Linearity properties
+    - Thevenin and Norton equivalent.
+    - Interface circuit design
 
 # References
 
