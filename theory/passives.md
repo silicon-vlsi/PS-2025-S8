@@ -4,13 +4,18 @@
 
 Resistance calculation of metal or semiconductor material is fundamental to IC engineering.
 Consider a block of metal or semiconductor material with dimensions $L, W$ and $h$. Let $n$ be the charge per unit volume.
-To calculate the current $I_R$ for an applied voltage $V_R$ across the length of the material, we will consider an incremental cross section of the material with length $\Delta x$. The current can be written as the total charge in the incremental volume times the average velocity of the free carriers: 
+To calculate the current $I_R$ for an applied voltage $V_R$ across the length of the material, we will consider an incremental cross section of the material with length $\Delta x$. 
+The current can be written as the total charge in the incremental volume in time $\Delta t$: 
+
+$I_R = \frac{\Delta Q}{\Delta t} = \frac{Q_S \Delta x}{\Delta t} = Q_S v_d$
 
 $I_R = Sheet Charge \times Average Velocity$ or, 
 
 $I_R = nWh \times v_d$. 
 
-where, $nWh$ is the sheet-charge ($Q_S$) or the charge per unit length,  
+where, $Q_S = nWh$ is the sheet-charge or the charge per unit length,
+
+$v_d$ is the average velocity of the electrons:
 
 $v_d=\Delta x / \Delta t = \mu E$, and 
 
@@ -37,3 +42,9 @@ $R = (\rho/h) (L/W)$
 Where, $\rho/h$ is typically called sheet-rho ($\rho_{sheet}$)
 
 The specific resistance (in $\Omega cm$) and unit resistance (in $\Omega/\square$) of typical metals used in integrated circuits such as aluminum (Al), copper (Cu) and gold (Au) are tabulated:
+
+| | $\mu -\Omega$ cm | $m\Omega/\square$ |
+|----------|---------|---------|
+| Al | 2.65 | 26.5 |
+| Cu | 1.68 | 16.8 |
+| Au | 2.44 | 24.4 |
