@@ -12,7 +12,7 @@
   - Thomas, R. E., Rosa, A. J., Toussaint, G. J. (2023). The Analysis and Design of Linear Circuits. United Kingdom: Wiley. [Thomas2023]
 - **VIRTUAL LABS**
   - [PhET](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html): University of Colorado
-  - [VLAB](https://www.laboratoriovirtual.fisica.ufc.br/capacitores?lang=en): at Federal University of Ceara
+  - [VLAB](https://www.laboratoriovirtual.fisica.ufc.br/capacitores?lang=en): at Federal University of Ceara. This is a good for doing measurements with multimeters.
     
 # EE Refresher
 
@@ -28,9 +28,6 @@
     - Thevenin and Norton equivalent.
     - Interface circuit design
 
-# References
-
-- [1] 
 
 * * *
 
