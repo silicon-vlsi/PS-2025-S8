@@ -6,6 +6,14 @@
   - If you don't have one yet, create a [GitHub](https://github.com) account.
     - Create a Git Repository with the name `PS-2025-S8-<username>` where, username is First initial and Surname or Surname Initial and First Name. For eg. if name is _Subash Bose_, the repossitory name should be `PS-2025-S8-sbose`
 
+# Resources
+
+- **REFERENCES**
+  - Thomas, R. E., Rosa, A. J., Toussaint, G. J. (2023). The Analysis and Design of Linear Circuits. United Kingdom: Wiley. [Thomas2023]
+- **VIRTUAL LABS**
+  - [PhET](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html): University of Colorado
+  - [VLAB](https://www.laboratoriovirtual.fisica.ufc.br/capacitores?lang=en): at Federal University of Ceara
+    
 # EE Refresher
 
 - Passice Devices: Resistor, Capacitor and Inductors (RLC)
@@ -22,7 +30,7 @@
 
 # References
 
-- [1] Thomas, R. E., Rosa, A. J., Toussaint, G. J. (2023). The Analysis and Design of Linear Circuits. United Kingdom: Wiley. [Thomas2023]
+- [1] 
 
 * * *
 
