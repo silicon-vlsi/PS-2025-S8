@@ -13,6 +13,8 @@
     - Most of the notes covered during this PS will shared on this eBook.
 - **REFERENCES**
   - Thomas, R. E., Rosa, A. J., Toussaint, G. J. (2023). The Analysis and Design of Linear Circuits. United Kingdom: Wiley. [Thomas2023]
+  - C. K. Alexander and M. N. O. Sadiku, Fundamentals of Electric Circuits. McGraw-Hill Higher Education, 2007. [[Online](https://archive.org/details/sadiku-fundamentals-of-electric-circuits-6th-2016)]
+
 - **VIRTUAL LABS**
   - [PhET](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html): University of Colorado
   - [VLAB](https://www.laboratoriovirtual.fisica.ufc.br/capacitores?lang=en): at Federal University of Ceara. This is a good for doing measurements with multimeters.
