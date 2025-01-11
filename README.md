@@ -8,6 +8,9 @@
 
 # Resources
 
+- **TEXT**
+  - Rout, Saroj. 2025. IC Engineering I. [[eBook](https://mixignal-press.github.io/ebook-ice1/)]
+    - Most of the notes covered during this PS will shared on this eBook.
 - **REFERENCES**
   - Thomas, R. E., Rosa, A. J., Toussaint, G. J. (2023). The Analysis and Design of Linear Circuits. United Kingdom: Wiley. [Thomas2023]
 - **VIRTUAL LABS**
@@ -16,7 +19,7 @@
     
 # EE Refresher
 
-- Passice Devices: Resistor, Capacitor and Inductors (RLC)
+- Passice Devices: Resistor, Capacitor and Inductors (RLC)  [[Chap-2: Passives](https://mixignal-press.github.io/ebook-ice1/passives.html)]
    - Derivation of IV char for resistive material.
    - Derivation of Capacitance using Gauss's Law.
    - Basic inductance calculation.
