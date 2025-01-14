@@ -25,14 +25,22 @@
    - Derivation of IV char for resistive material.
    - Derivation of Capacitance using Gauss's Law.
    - Basic inductance calculation.
-- Basic Circuit Theory
+- Basic Circuit Theory [[Chap-3: Linear Circuit](https://mixignal-press.github.io/ebook-ice1/circuits.html)]
   - Basic circuit analysis: Voltage current division, circuit reduction.
   - Analysis techniques:
     - Node-voltage and mesh-analysis
     - Linearity properties
     - Thevenin and Norton equivalent.
     - Interface circuit design
+  - **Reading Assignment**: Chap-2 and 3 from [Thomas2023]
+  - **Problems**: [Thomas2023] (2.2, 2.5, 2.7(a,b), 2.10)
 
+# Computer Aided Design and Automation
+
+- Get your github repo cloned and synced in your WSL/Ubuntu account using SSH. 
+- Get familiar with editor `vim`. 
+  - As an exercise for `vim` and `git`, open your README.md and create a documentation for Capacitor section and insert a table with the capacitor properties.
+- [Tutorial from Perplexity](https://www.perplexity.ai/search/create-a-quick-vim-editor-tuto-OOEC6K37R9a6DdMBq4TTew) : Short tutorials on `vim`, `git` and writing equations in markdown
 
 * * *
 
