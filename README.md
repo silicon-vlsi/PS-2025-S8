@@ -33,7 +33,8 @@
     - Thevenin and Norton equivalent.
     - Interface circuit design
   - **Reading Assignment**: Chap-2 and 3 from [Thomas2023]
-  - **Problems**: [Thomas2023] (2.2, 2.5, 2.7(a,b), 2.10)
+  - **Problems**:
+    - Basic Circuits: [Thomas2023] (2.2, 2.5, 2.7(a,b), 2.10, 2.25, 2.26, 2.27, 2.31, 2.34, 2.35, 2.37, 2.49, 2.50)
 
 # Computer Aided Design and Automation
 
