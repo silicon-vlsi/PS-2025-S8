@@ -38,6 +38,8 @@
     - Circuit Analysis Techniques: [Thomas2023]
       - Node and Mesh Analysis: (3.1, 3.6, 3.8, 3.9, 3.11, 3.14)
       - Superposition: (3.33, 3.35, 3.36)
+      - Thevenin and Norton: (3.39, 3.42, 3.45, 3.48, 3.52)
+      - Maximum Power Transfer: (3.57, 3.59, 3.61)
 
 # Computer Aided Design and Automation
 
