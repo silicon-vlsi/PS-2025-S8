@@ -56,6 +56,8 @@
     - [*Highly Recomended*]: [Annotted Chapter from Weste-Harris and Johns-Martin](https://www.dropbox.com/s/zxp1dnwknvpfz8y/Weste-JohnsMartin-CMOSprocessing-Layout-Highlight-annotate.pdf)
     - [*Suggested Reading*]: [Hodges] Section **3.1,3.2**
     - [*Suggested Problems*]: [Hodges] Prob **3.11, 3.12**
+    - [*Cross-section Practice*] [Siliwiz Assignment](docs/2025-0128-siliwiz-assign.pdf) using https://app.siliwiz.com 
+
 - **MOS DEVICE**
   - Threshold Voltage (Vt) [[Video-2021](https://www.youtube.com/watch?v=OUZV9N0b3Lc)]
     - [*Suggested Reading*]: [Hodges] Section **3.2.4, 3.2.5**
@@ -74,6 +76,10 @@
   - Dynamic Inverter Characteristics [[Video-2021](https://www.youtube.com/watch?v=jXyXVIjiYcU)]
     - [*Suggested Reading*]: [Hodges] Section **6.1,6.2,6.3,6.4,6.5**  
     - [*Suggested Problems*]: [Hodges] Example **6.1,6.3,6.4,6.5,6.8**
+
+- **SRAM DESIGN**
+  - [*Suggested Reading*]: [Hodges] Chapter-8 (Focus on 8.3), [Kang] Section 10.3
+
 
 # Computer Aided Design and Automation
 
