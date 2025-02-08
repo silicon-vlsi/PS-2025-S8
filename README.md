@@ -9,9 +9,11 @@
 # Resources
 
 - **TEXT**
+  - Hodges D.A., et.al., "_Analysis and Design of Digital Integrated Circuits_", Tata-McGraw Hill, 3rd Ed
   - Rout, Saroj. 2025. IC Engineering I. [[eBook](https://mixignal-press.github.io/ebook-ice1/)]
     - Most of the notes covered during this PS will shared on this eBook.
 - **REFERENCES**
+  - 
   - Thomas, R. E., Rosa, A. J., Toussaint, G. J. (2023). The Analysis and Design of Linear Circuits. United Kingdom: Wiley. [Thomas2023]
   - C. K. Alexander and M. N. O. Sadiku, Fundamentals of Electric Circuits. McGraw-Hill Higher Education, 2007. [[Online](https://archive.org/details/sadiku-fundamentals-of-electric-circuits-6th-2016)]
 
@@ -21,11 +23,11 @@
     
 # EE Refresher
 
-- Passice Devices: Resistor, Capacitor and Inductors (RLC)  [[Chap-2: Passives](https://mixignal-press.github.io/ebook-ice1/passives.html)]
+- **PASSIVE DEVICES**: Resistor, Capacitor and Inductors (RLC)  [[Chap-2: Passives](https://mixignal-press.github.io/ebook-ice1/passives.html)] [[Video Lecture from 2021](https://www.youtube.com/watch?v=3SCYAH57Ixw)
    - Derivation of IV char for resistive material.
    - Derivation of Capacitance using Gauss's Law.
    - Basic inductance calculation.
-- Basic Circuit Theory [[Chap-3: Linear Circuit](https://mixignal-press.github.io/ebook-ice1/circuits.html)]
+- **BASIC CIRCUIT THEORY** [[Chap-3: Linear Circuit](https://mixignal-press.github.io/ebook-ice1/circuits.html)]
   - Basic circuit analysis: Voltage current division, circuit reduction.
   - Analysis techniques:
     - Node-voltage and mesh-analysis
@@ -40,6 +42,11 @@
       - Superposition: (3.33, 3.35, 3.36)
       - Thevenin and Norton: (3.39, 3.42, 3.45, 3.48, 3.52)
       - Maximum Power Transfer: (3.57, 3.59, 3.61)
+- **CMOS VLSI DESIGN**
+  - Introduction to CMOS VLSI Design Flow [[Video-2021](https://www.youtube.com/watch?v=NVzHuigvpt4)]
+    - [*Suggested Reading*]: [Hodges] Chapter-**1**, [Kang] Chapter-**1**
+- 
+
 
 # Computer Aided Design and Automation
 
